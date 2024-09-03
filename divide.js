@@ -1,1 +1,1 @@
-divide(a,b)
+console.log(divide(a,b))
