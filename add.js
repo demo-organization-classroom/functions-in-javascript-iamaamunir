@@ -1,5 +1,1 @@
-add(a,b)
-
-
-
-
+console.log('hi')
