@@ -12,10 +12,7 @@ This repository contains the starter code for your JavaScript assignment.
 ## Functions
 
 1. **add(a, b):** Returns the sum of `a` and `b`.
-2. **subtract(a, b):** Returns the difference between `a` and `b`.
-3. **multiply(a, b):** Returns the product of `a` and `b`.
-4. **divide(a, b):** Returns the quotient of `a` and `b`. Handles division by zero.
-5. Constants values for a and b is 4 and 2.
+2. Constants values for a and b is 4 and 2.
 
 ## Example Usage
 
