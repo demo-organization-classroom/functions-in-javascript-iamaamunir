@@ -1,4 +1,4 @@
 // Function to multiply two numbers
-multiply(a,b)
+console.log(multiply(a,b))
 
 
